@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Nguyen Anh Quan</h1>
-<h3 align="center">A passionate fullstack developer from VietNam</h3>
+<h3 align="center">A fullstack developer </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
